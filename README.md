@@ -1,5 +1,5 @@
-PascalTriangle
-==============
+Pascal Triangle
+===============
 
 Developer: Franz-Josef Ayestaran
 
@@ -10,5 +10,5 @@ left with the number directly above and to the right to find the new value. If e
 zero in its place. For example, the first number in the first row is 0 + 1 = 1, whereas the numbers 1 and 3 in the third row are added to produce 
 the number 4 in the fourth row.
 
-Interactive Implementation version @ http://pascaltriangle.ayestaran.co.uk/
+Interactive Implementation version in SQL @ http://pascaltriangle.ayestaran.co.uk/
 
